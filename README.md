@@ -39,7 +39,7 @@ This project implements a real-time posture detection system using OpenCV and Me
 1. Run the main script to start the posture detection system:
 
     ```bash
-    python main.py
+    python posture.py
     ```
 
 2. The system will begin processing the webcam feed, detecting and classifying postures in real time.
